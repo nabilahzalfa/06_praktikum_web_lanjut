@@ -1,4 +1,4 @@
-<?php
+<?php //praktikum 2
 
 namespace Database\Seeders;
 
